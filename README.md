@@ -6,4 +6,4 @@
 - Run the command `npm start`
 
 ### Depolyed at 
-- https://giveindia-task.netlify.app/
+- https://youtube-gamaka.netlify.app/
